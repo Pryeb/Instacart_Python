@@ -40,7 +40,6 @@ customers are ordering, and anything else you can think of.
 ● 04 *Analysis*: Including Visualizations.
 
 ● 05 *Sent to Client*: The final report presented in Excel
-
 ##### Data folder has not been uploaded due to size restrictions.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Data Dictionary
